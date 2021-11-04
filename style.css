@@ -1,0 +1,30 @@
+:root {
+  font-size: 16px;
+}
+.blue {
+  background: steelblue;
+}
+.flex {
+  display: flex;
+}
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+.green {
+  background: seagreen;
+}
+.grid {
+  background: slategray;
+  height: 100vh;
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+}
+.red {
+ background: tomato;
+}
+.text-md {
+  font-size: 2rem;
+}
